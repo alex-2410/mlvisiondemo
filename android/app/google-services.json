@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787344150164",
+    "firebase_url": "https://mlvision-1-f9566.firebaseio.com",
+    "project_id": "mlvision-1-f9566",
+    "storage_bucket": "mlvision-1-f9566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787344150164:android:9821575481e28c82082e81",
+        "android_client_info": {
+          "package_name": "com.example.mlvisiondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787344150164-qf7m1bmethcah1kgjeuhbuelu32jec9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8Qe_WmhgctKm-lJWgF2QMVvbjn6Zxc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787344150164-qf7m1bmethcah1kgjeuhbuelu32jec9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
